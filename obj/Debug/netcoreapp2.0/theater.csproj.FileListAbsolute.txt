@@ -1,0 +1,10 @@
+C:\Users\BoiseCodeWorks\source\CodeWorks\winter18\theater\bin\Debug\netcoreapp2.0\theater.deps.json
+C:\Users\BoiseCodeWorks\source\CodeWorks\winter18\theater\bin\Debug\netcoreapp2.0\theater.runtimeconfig.json
+C:\Users\BoiseCodeWorks\source\CodeWorks\winter18\theater\bin\Debug\netcoreapp2.0\theater.runtimeconfig.dev.json
+C:\Users\BoiseCodeWorks\source\CodeWorks\winter18\theater\bin\Debug\netcoreapp2.0\theater.dll
+C:\Users\BoiseCodeWorks\source\CodeWorks\winter18\theater\bin\Debug\netcoreapp2.0\theater.pdb
+C:\Users\BoiseCodeWorks\source\CodeWorks\winter18\theater\obj\Debug\netcoreapp2.0\theater.csproj.CoreCompileInputs.cache
+C:\Users\BoiseCodeWorks\source\CodeWorks\winter18\theater\obj\Debug\netcoreapp2.0\theater.AssemblyInfoInputs.cache
+C:\Users\BoiseCodeWorks\source\CodeWorks\winter18\theater\obj\Debug\netcoreapp2.0\theater.AssemblyInfo.cs
+C:\Users\BoiseCodeWorks\source\CodeWorks\winter18\theater\obj\Debug\netcoreapp2.0\theater.dll
+C:\Users\BoiseCodeWorks\source\CodeWorks\winter18\theater\obj\Debug\netcoreapp2.0\theater.pdb
