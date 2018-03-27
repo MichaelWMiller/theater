@@ -664,23 +664,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\BoiseCodeWorks\\.nuget\\packages\\": {},
+    "C:\\Users\\mwmil\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\BoiseCodeWorks\\source\\CodeWorks\\winter18\\theater\\theater.csproj",
+      "projectUniqueName": "D:\\source\\codeworks\\wint18\\theater\\theater.csproj",
       "projectName": "theater",
-      "projectPath": "C:\\Users\\BoiseCodeWorks\\source\\CodeWorks\\winter18\\theater\\theater.csproj",
-      "packagesPath": "C:\\Users\\BoiseCodeWorks\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\BoiseCodeWorks\\source\\CodeWorks\\winter18\\theater\\obj\\",
+      "projectPath": "D:\\source\\codeworks\\wint18\\theater\\theater.csproj",
+      "packagesPath": "C:\\Users\\mwmil\\.nuget\\packages\\",
+      "outputPath": "D:\\source\\codeworks\\wint18\\theater\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\BoiseCodeWorks\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "d:\\Users\\mwmil\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
